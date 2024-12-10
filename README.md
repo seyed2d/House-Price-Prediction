@@ -14,3 +14,9 @@ To build a **predictive system** capable of estimating housing prices based on t
 ## Results:
 The models achieved reasonable accuracy, with the **Random Forest Regressor** outperforming the **Linear Regression** model in terms of predictive performance.  
 **Random Forest Regressor** achieved an **R² score of 0.82** on the test set, while **Linear Regression** achieved a score of **0.79**.
+
+## Dataset
+The dataset used in this project is the **California Housing Prices dataset**, available on **Kaggle**.
+
+You can download the dataset from the following link:
+[Kaggle Housing Prices Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices/code)
